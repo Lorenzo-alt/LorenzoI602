@@ -1,6 +1,6 @@
 # Print da tela em execução
 
-![alt text](https://prnt.sc/uuwgwp)
+![Screenshot_1](https://user-images.githubusercontent.com/72031326/95363671-213a6300-08a6-11eb-88e7-ec1647aeceaf.png)
 
 # LorenzoI602
 
